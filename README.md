@@ -31,7 +31,7 @@ This project demonstrates basic authentication logic by validating a user’s **
    - Access is denied
 
 ---
-
+Author:Wasiullah Mubarak
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository

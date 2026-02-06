@@ -2,7 +2,7 @@
 
 ADMIN_NAME = "admin"
 ADMIN_PASSWORD = "1122"
-ADMIN_EMAIL = "admin1122@gmail.com"
+ADMIN_EMAIL = "Admin1122@gmail.com"
 
 
 def login():
